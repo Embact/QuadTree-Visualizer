@@ -42,4 +42,14 @@ A **QuadTree** is a tree data structure used to partition a 2D space into four q
 
 ---
 
-✅ **Try it live**: [Your GitHub Pages link here]  
+✅ **Try it live**: [[Your GitHub Pages link here](https://embact.github.io/QuadTree-Visualizer/)]  
+
+
+## :camera_flash: Screenshot
+
+[![Linkedin Badge](/Screenshots/1.png)](https://www.linkedin.com/in/hisham--mohamed/)
+[![Linkedin Badge](/Screenshots/2.png)](https://www.linkedin.com/in/hisham--mohamed/)
+[![Linkedin Badge](/Screenshots/3.png)](https://www.linkedin.com/in/hisham--mohamed/)
+[![Linkedin Badge](/Screenshots/4.png)](https://www.linkedin.com/in/hisham--mohamed/)
+[![Linkedin Badge](/Screenshots/5.png)](https://www.linkedin.com/in/hisham--mohamed/)
+[![Linkedin Badge](/Screenshots/6.png)](https://www.linkedin.com/in/hisham--mohamed/)
