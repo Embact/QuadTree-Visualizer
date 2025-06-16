@@ -1,3 +1,4 @@
+[![Linkedin Badge](/Screenshots/1.png)](https://www.linkedin.com/in/hisham--mohamed/)
 # 🌳 QuadTree Visualizer Tool
 
 A lightweight and interactive QuadTree Visualizer built with **HTML Canvas** and **JavaScript** 🖼️⚙️
@@ -47,7 +48,6 @@ A **QuadTree** is a tree data structure used to partition a 2D space into four q
 
 ## :camera_flash: Screenshot
 
-[![Linkedin Badge](/Screenshots/1.png)](https://www.linkedin.com/in/hisham--mohamed/)
 [![Linkedin Badge](/Screenshots/2.png)](https://www.linkedin.com/in/hisham--mohamed/)
 [![Linkedin Badge](/Screenshots/3.png)](https://www.linkedin.com/in/hisham--mohamed/)
 [![Linkedin Badge](/Screenshots/4.png)](https://www.linkedin.com/in/hisham--mohamed/)
